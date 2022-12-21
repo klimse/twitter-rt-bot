@@ -1,11 +1,11 @@
 import tweepy
 from time import sleep
 
-api_key = "SB0RPKE4p5Jvndd7CeSDRZego"
-api_secret = "Ocln8HBN1YSezEM43s0eA3OZFCEwvsQp8BJYpkLLyjUHtKUm44"
-bearer_token = "AAAAAAAAAAAAAAAAAAAAAGVBigEAAAAA8XojdvDs1%2FjSCRQefk31ddsI9k8%3Dt1Xhu3IQOMUF0r6G62VZmS5y3xtmtNj1VpmqrJOi0tw1IOVelb"
-access_token = "1326897996794105857-qrAJlGE8KcJySax0KQ18snlmm9bksu"
-access_token_secret = "9DfMxe09dHwd5AigXlf24Q2NuSsYBEM1D3upBiWMT5F9w"
+api_key = ""
+api_secret = ""
+bearer_token = ""
+access_token = ""
+access_token_secret = ""
 
 client = tweepy.Client(bearer_token, api_key, api_secret, access_token, access_token_secret)
 
